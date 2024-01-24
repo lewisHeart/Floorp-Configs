@@ -4,6 +4,9 @@ I didn't make any editions at Userchrome.css and I didn't find any way to export
 ![Browser](docs/assets/browser.png)
 ## Set-up Guide
 
+#### Step 0 - Install Floorp Browser
+- [Floorp Browser](https://floorp.app/en/download/) page
+
 #### Step 1 - Install addons and resources ⬇️:
 - [Sidebery](https://addons.mozilla.org/pt-BR/firefox/addon/sidebery/) to sidebar
 - [Tabliss](https://addons.mozilla.org/pt-BR/firefox/addon/tabliss/) to "new tab" page
@@ -21,7 +24,7 @@ I didn't make any editions at Userchrome.css and I didn't find any way to export
 - Navigate to Sidebery Settings ⚙️:
   - Sidebery Settings -> Help -> Import addon data -> Import the settings I left in Github
 
-#### Last step - Customize Themes 🎨:
+#### Step 3 (Last Step) - Customize Themes 🎨:
 - Go to [Firefox Color](https://color.firefox.com/?fromAddon=true) (extension needed) and color according to your preferences or install [Dark](https://addons.mozilla.org/pt-BR/firefox/addon/dark-nivgvrv/) from nivgvrv
 - Go to new tab (tabliss needs to be installed!) settings
   - Background -> Upload Images -> Upload the image of your choice (I used this [site](https://www.sightunseen.com/2018/08/spanish-artist-ana-montiel-color-field-paintings-digital-art/), this [image](https://www.sightunseen.com/wordpress/wp-content/uploads/2018/08/Fields26-AllRealitiesCoExistingEverywhereForever.jpg))
