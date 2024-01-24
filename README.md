@@ -12,12 +12,12 @@ I didn't make any editions at Userchrome.css and I didn't find any way to export
 
 #### Step 2 - Configure Floorp Browser and extensions:
 - Navigate to Floorp Settings ⚙️
-  - Design -> Browser appearance -> Floorp Fluerial UI
-  - Design -> Tab Bar Style -> Horizontal Tab Bar
-  - Design -> Tab Bar Style -> Collapse Tree Style Tab
-  - Design -> Tab Bar -> Optimise browser for Vertical Tab Bar
-  - Design -> Bookmarks Toolbar -> Hide the Bookmarks Toolbar unless hovering over the navigation bar (Optional, you can simply choose to hide the favorite bar always)
-  - Design -> Other Preferences -> Round the corners of pages
+  - Design `about:preferences#design` -> Browser appearance -> Floorp Fluerial UI
+  - Design `about:preferences#design` -> Tab Bar Style -> Horizontal Tab Bar
+  - Design `about:preferences#design` -> Tab Bar Style -> Collapse Tree Style Tab
+  - Design `about:preferences#design` -> Tab Bar -> Optimise browser for Vertical Tab Bar
+  - Design `about:preferences#design` -> Bookmarks Toolbar -> Hide the Bookmarks Toolbar unless hovering over the navigation bar (Optional, you can simply choose to hide the favorite bar always)
+  - Design `about:preferences#design` -> Other Preferences -> Round the corners of pages
 - Navigate to Sidebery Settings ⚙️:
   - Sidebery Settings -> Help -> Import addon data -> Import the settings I left in Github
 
