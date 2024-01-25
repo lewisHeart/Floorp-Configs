@@ -25,7 +25,7 @@ I didn't make any editions at Userchrome.css and I didn't find any way to export
   - Sidebery Settings -> Help -> Import addon data -> Import the settings I left in Github
 
 #### Step 3 (Last Step) - Customize Themes 🎨:
-- Go to [Firefox Color](https://color.firefox.com/?fromAddon=true) (extension needed) and color according to your preferences or install [Dark](https://addons.mozilla.org/pt-BR/firefox/addon/dark-nivgvrv/) from nivgvrv
+- Go to [Firefox Color](https://color.firefox.com/?fromAddon=true) (extension needed) and color according to your preferences or install [Darker Leo's](https://addons.mozilla.org/addon/darker-leo-s/) theme.
 - Go to new tab (tabliss needs to be installed!) settings
   - Background -> Upload Images -> Upload the image of your choice (I used this [site](https://www.sightunseen.com/2018/08/spanish-artist-ana-montiel-color-field-paintings-digital-art/), this [image](https://www.sightunseen.com/wordpress/wp-content/uploads/2018/08/Fields26-AllRealitiesCoExistingEverywhereForever.jpg))
   - Widgets -> Remove all widgets and add Literature Clock
