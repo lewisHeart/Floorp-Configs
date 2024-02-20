@@ -32,5 +32,9 @@ I didn't make any editions at Userchrome.css and I didn't find any way to export
 - Go to Customize Toolbar (By clicking on an empty place of the Firefox title bar)
   - Add 5 Flexible Space to the left and right of the search bar.
 
+#### Bonus: Other things
+- If you want to use SplitView along with Sidebery, just add as a shortcut:
+  - about:preferences#cSK -> Split View Actions -> Add Shortcut
+
 ## That's all
 Enjoy your new browser style!
